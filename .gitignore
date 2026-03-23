@@ -8,6 +8,7 @@ out/
 GitTest9.iml
 **/*.log
 out/
+cloned-git-test9.iml
 
 ### Mac OS ###
 .DS_Store
